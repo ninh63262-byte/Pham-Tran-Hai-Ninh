@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>Giới thiệu về bản thân tôi</h1>
+<p>Tên tôi là: Phạm Trần Hải Ninh<br>Học sinh lớp: 12A4 tại trường THPT Hòn Gai</p>
+<p> Đây là cầu thủ bóng đá yêu thích nhất của tôi</p>
+<img src="https://photo-baomoi.bmcdn.me/w500_r1/2026_10_12_23_56249562/82a1c81d64568d08d447.jpg">
+<p> Đây là bài hát yêu thích của tôi<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxXYWMIQAcQ?si=bt5h3-pTjNerTUom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<ul>Tôi dự định thi khối nghành kĩ thuật nên đây là một vài ngôi trường tôi quan tâm:
+<li>Đại học Bách khoa Hà Nội (HUST)</li>
+<li>Trường Đại học Công nghệ – ĐHQG Hà Nội (VNU-UET)</li>
+<li>Trường Đại học Xây dựng Hà Nội (NUCE)</li>
+<li>Trường Đại học Giao thông vận tải (UTC)</li>
+<li>Trường Đại học Công nghiệp Hà Nội (HaUI)</li>
+</ul>
+</body>
+</html>
+
